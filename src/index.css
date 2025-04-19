@@ -1,21 +1,5 @@
 @import "tailwindcss";
 
 
-body {
-    margin: 0;
-    padding: 0;
-    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
-  }
-  
-  /* Apply default light mode styles */
-  :root {
-    --bg-color: #f3f4f6;
-    --text-color: #1f2937;
-  }
-  
-  /* Apply dark mode styles when .dark class is present */
-  .dark {
-    --bg-color: #111827;
-    --text-color: #f9fafb;
-  }
+
 
